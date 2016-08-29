@@ -563,7 +563,7 @@ class Worker(Thread):  # Get details {{{
 
 class Dang(Source):
 
-    name = 'DangDang From China'
+    name = 'DangDang'
     description = _('Downloads metadata and covers from dangdang.com')
 
     capabilities = frozenset(['identify', 'cover'])

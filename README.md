@@ -8,7 +8,6 @@ This plugin can retrieve dangdang id, title, author, comments, rating, publisher
 
 ### Special Notes:
 * Requires Calibre 0.8 or later.
-* No ISBN information for kindle books can be retrieved from dangdang.com since almost all chinese kindle books have no ISBN information.
 
 ### Installation Notes:
 Download the zip file and install the plugin as described in the Introduction to plugins thread.
